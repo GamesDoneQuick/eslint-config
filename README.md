@@ -18,8 +18,8 @@
    module.exports = {
       extends: [
          "@gamesdonequick/eslint-config/react",
-		   "@gamesdonequick/eslint-config",
-		   "@gamesdonequick/eslint-config/typescript"
+         "@gamesdonequick/eslint-config",
+         "@gamesdonequick/eslint-config/typescript"
       ]
    };
    ```
