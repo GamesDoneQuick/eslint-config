@@ -1,4 +1,4 @@
-# GDQ's eslint-config [![npm](https://img.shields.io/npm/v/@gamesdonequick/eslint-config.svg)](https://www.npmjs.com/package/@gamesdonequick/eslint-config)
+# GDQ's eslint-config [![npm](https://img.shields.io/npm/v/@gamesdonequick/eslint-config.svg)](https://www.npmjs.com/package/@gamesdonequick/eslint-config) [![Build Status](https://dev.azure.com/gamesdonequick/eslint-config/_apis/build/status/GamesDoneQuick.eslint-config?branchName=master)](https://dev.azure.com/gamesdonequick/eslint-config/_build/latest?definitionId=6&branchName=master)
 
 > Our re-usable config for the ESLint JS/TS linter.
 
