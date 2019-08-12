@@ -4,10 +4,22 @@
 
 ## Usage
 
-1. Install the config you wish to use as a devDependency:
+1. Install this config as a devDependency:
 
    ```bash
    npm i -D @gamesdonequick/eslint-config
    ```
 
 2. Follow the instructions here to use or extend our config: https://eslint.org/docs/developer-guide/shareable-configs#using-a-shareable-config
+
+3. This package actually includes multiple configs. One base config, one that adds typescript support, and one that adds react support. You can pick and choose what parts you wish to use. To use all three, your config might look like this:
+
+   ```js
+   module.exports = {
+      extends: [
+         "@gamesdonequick/eslint-config/react",
+		   "@gamesdonequick/eslint-config",
+		   "@gamesdonequick/eslint-config/typescript"
+      ]
+   };
+   ```
