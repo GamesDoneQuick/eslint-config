@@ -17,22 +17,22 @@
   },
   "homepage": "https://github.com/GamesDoneQuick/eslint-config#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^1.13.0",
-    "@typescript-eslint/parser": "^1.13.0",
-    "eslint-config-prettier": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.3.0",
+    "@typescript-eslint/parser": "^2.3.0",
+    "eslint-config-prettier": "^6.3.0",
     "eslint-config-xo": "^0.26.0",
-    "eslint-config-xo-typescript": "^0.16.0",
+    "eslint-config-xo-typescript": "^0.18.0",
     "eslint-plugin-react": "^7.14.3",
-    "eslint-plugin-react-hooks": "^1.7.0"
+    "eslint-plugin-react-hooks": "^2.0.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.1.0",
-    "@commitlint/config-conventional": "^8.1.0",
-    "@gamesdonequick/prettier-config": "^1.0.1",
-    "husky": "^3.0.3",
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "@gamesdonequick/prettier-config": "^2.1.1",
+    "husky": "^3.0.5",
     "prettier": "^1.18.2",
     "pretty-quick": "^1.11.1",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^15.13.24"
   },
   "husky": {
     "hooks": {
